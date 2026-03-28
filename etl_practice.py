@@ -3,6 +3,9 @@ import glob
 import xml.etree.ElementTree as ET 
 from datetime import datetime 
 
+# https://www.coursera.org/learn/python-project-for-data-engineering/
+
+
 target_file = "extracted_data.csv"
 log_file = "log_file.txt"
 
